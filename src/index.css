@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.end{
+  font-family: cursive;
+  font-size: 25px;
+  color:firebrick;
+  font-weight: 900;
+}
+
+.start{
+  font-family: cursive;
+  font-size: 25px;
+  color:green;
+  font-weight: 900;
+}
